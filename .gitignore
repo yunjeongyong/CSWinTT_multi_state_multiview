@@ -1,0 +1,11 @@
+Tracking CSWinTT in Focal Sequence.pptx
+graphs/*
+label-imgs/*
+__pycache__/
+*.docx
+*.png
+*.pyc
+*.pth
+*.zip
+*.jpg
+*.csv

@@ -1,0 +1,18 @@
+{
+    "name": "tracking demo",
+    "save_path": "D:/tracker_assignment/result",
+    "plenoptic_save_path":"D:/tracker_assignment/plenoptic_result",
+    "video_name": "E:\\dataset\\unfold_images_color_1@",
+    "plenoptic_video_name": "D:\\newvideo1_001_300",
+    "video_type": "2D",
+    "image2d_ref": "images/005.png",
+    "check_iou": false,
+    "is_record": true,
+    "write_bbox": true,
+    "write_conf": true,
+    "write_time": true,
+    "start_frame_num": 65,
+    "last_frame_num": 205,
+    "start_focal_num": 0,
+    "last_focal_num": 100
+}
